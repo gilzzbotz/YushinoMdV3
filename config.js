@@ -39,38 +39,38 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6281384494692', 'Pikk XD', true],
-['6281384494692', 'Pikk Kenzy', true]
+['6285730794089', '𝐆𝐈𝐋𝐙𝐙 - 𝐗𝐃', true],
+['6285730794089', '𝐆𝐈𝐋𝐙𝐙 - 𝐗𝐃', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '77479918368'
-global.nomorown = '6281384494692'
-global.nomorown1 = '6281384494692'
-global.nomorown2 = '6281384494692'
+global.nomorbot = '79261542805'
+global.nomorown = '6285730794089'
+global.nomorown1 = '6285730794089'
+global.nomorown2 = '6285730794089'
 global.nomorwa = '0'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = 'Created By Pikk XD'
-global.namebot = 'Pikk - MD'
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 Pikk XD'
+global.author = 'Created By 𝐆𝐈𝐋𝐙𝐙 - 𝐗𝐃'
+global.namebot = '𝐆𝐈𝐋𝐙𝐙 - 𝐗𝐃'
+global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝐆𝐈𝐋𝐙𝐙 - 𝐗𝐃'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
 global.watermark = wm
-global.wm2 = 'Pikk XD'
+global.wm2 = '𝐆𝐈𝐋𝐙𝐙 - 𝐗𝐃'
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.packname = wm
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `Pikk - MD`
-global.stickpack = 'Pikk - MD'
-global.stickauth = `© Pikk - MD`
+global.titlebot = `𝐆𝐈𝐋𝐙𝐙 - 𝐗𝐃`
+global.stickpack = '𝐆𝐈𝐋𝐙𝐙 - 𝐗𝐃'
+global.stickauth = `© 𝐆𝐈𝐋𝐙𝐙 - 𝐗𝐃`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= 'Pikk Kenzy'
-global.nameown2 = 'Pikk XD'
+global.nameown1= '𝐆𝐈𝐋𝐙𝐙 - 𝐗𝐃'
+global.nameown2 = '𝐆𝐈𝐋𝐙𝐙 - 𝐗𝐃'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Bentar'
 global.lynk = 'https://lynk.id/gilzzx'
@@ -264,7 +264,7 @@ global.drtf = 'text/rtf'
 global.optsnsfw = true // Untuk mematikan Dan Menyalakan Nsfw
 global.premnsfw = true // Nsfw Mode Premium?
 global.thumb = 'https://telegra.ph/file/d228cf9e49e7413568a1c.jpg' //Main Thumbnail
-global.imagebot = 'https://telegra.ph/file/d228cf9e49e7413568a1c.jpg'
+global.imagebot = 'https://telegra.ph/file/90fd045bbf062461df807.jpg'
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
 global.thumbs = ['https://telegra.ph/file/d228cf9e49e7413568a1c.jpg']
 global.thumbnailUrl = [
@@ -306,7 +306,7 @@ global.logo = 'https://i.pinimg.com/564x/f7/d2/e4/f7d2e48fd59a8c01cd396bfc70b0a2
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
 global.urlnya = "https://www.instagram.com/rdtyzagilz"
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '0813-8449-4692'
+global.phn = '0857-3079-4089'
 
 global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ JNGN DI UBAH ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
