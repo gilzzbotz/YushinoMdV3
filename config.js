@@ -39,38 +39,38 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6285730794089', '𝐆𝐈𝐋𝐙𝐙 - 𝐗𝐃', true],
-['6285730794089', '𝐆𝐈𝐋𝐙𝐙 - 𝐗𝐃', true]
+['6282169294145', 'RexjuBots', true],
+['6282169294145', 'RexjuBots', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '79261542805'
-global.nomorown = '6285730794089'
-global.nomorown1 = '6285730794089'
-global.nomorown2 = '6285730794089'
+global.nomorbot = '6282169294145'
+global.nomorown = '6282169294145'
+global.nomorown1 = '6282169294145'
+global.nomorown2 = '6282169294145'
 global.nomorwa = '0'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = 'Created By 𝐆𝐈𝐋𝐙𝐙 - 𝐗𝐃'
-global.namebot = '𝐆𝐈𝐋𝐙𝐙 - 𝐗𝐃'
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝐆𝐈𝐋𝐙𝐙 - 𝐗𝐃'
+global.author = 'Created By RexjuBots'
+global.namebot = 'RexjuBots'
+global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 RexjuBots'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
 global.watermark = wm
-global.wm2 = '𝐆𝐈𝐋𝐙𝐙 - 𝐗𝐃'
+global.wm2 = 'RexjuBots'
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.packname = wm
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `𝐆𝐈𝐋𝐙𝐙 - 𝐗𝐃`
-global.stickpack = '𝐆𝐈𝐋𝐙𝐙 - 𝐗𝐃'
-global.stickauth = `© 𝐆𝐈𝐋𝐙𝐙 - 𝐗𝐃`
+global.titlebot = `RexjuBots`
+global.stickpack = 'RexjuBots'
+global.stickauth = `© RexjuBots`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= '𝐆𝐈𝐋𝐙𝐙 - 𝐗𝐃'
-global.nameown2 = '𝐆𝐈𝐋𝐙𝐙 - 𝐗𝐃'
+global.nameown1= 'RexjuBots'
+global.nameown2 = 'RexjuBots'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Bentar'
 global.lynk = 'https://lynk.id/gilzzx'
